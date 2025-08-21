@@ -1,0 +1,17 @@
+Freq: 10.190166542755215 type: FTF
+Freq: 60.25523270141651 type: BSF
+Freq: 91.71149888479694 type: BPFO
+Freq: 138.58587131075262 type: BPFI
+Freq: 99.55664802231558 type: FTF
+Freq: 588.6860600745085 type: BSF
+Freq: 896.0098322008403 type: BPFO
+Freq: 1353.966566989989 type: BPFI
+Freq: 51.17719337678879 type: rotor+1
+Freq: 48.82175769835919 type: rotor-1
+Freq: 52.3549112160036 type: rotor+2
+Freq: 47.64403985914439 type: rotor-2
+Freq: 99.99895107514799 type: stator x2
+Freq: 149.99842661272197 type: stator x3
+
+Closest freqinces
+Freq: 149.99842661272197 type: stator x3 close to 149.99842661272197
