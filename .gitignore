@@ -42,5 +42,4 @@ build/
 *.zip
 
 # Datasets
-barFailure/
 dataSetMain/
