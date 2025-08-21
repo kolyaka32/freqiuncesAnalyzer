@@ -1,0 +1,46 @@
+# All untarget for git files
+
+# Compailing sytems
+.vscode/
+
+# Build folder
+build/
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+
+# Settings and data file of program
+*.dat
+*.ini
+
+# Archives
+*.7z
+*.zip
+
+# Datasets
+barFailure/
+dataSetMain/
