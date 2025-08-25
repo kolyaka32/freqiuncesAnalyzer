@@ -22,5 +22,7 @@ Freq: 96.96897119183542 type: stator x2
 Freq: 145.45345678775314 type: stator x3
 
 Closest freqinces
+Freq:260.329753637777close to:260.366686050655type:BPFO at rotor
+Freq:393.38606581192374close to:393.47409341346827type:BPFI at rotor
 Freq:96.96897119183542close to:96.96064052420725type:stator x2
 Freq:145.45345678775314close to:145.44512612012497type:stator x3

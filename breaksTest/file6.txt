@@ -1,0 +1,29 @@
+Parameters
+Power grid freqince: 48.48446981826134
+Electric motor rotation frequnces: 24.275557568799577
+Rotor after multiplicator: 72.69338206772309
+Num poles: 2
+Slide: 0.0013745704467353903
+
+Posible dangerous freqinces
+Freq: 9.667273964128878 type: FTF at motor
+Freq: 57.16332896551793 type: BSF at motor
+Freq: 87.00546567715989 type: BPFO at motor
+Freq: 131.47455244203627 type: BPFI at motor
+Freq: 28.948741458815572 type: FTF at rotor
+Freq: 171.17611824060035 type: BSF at rotor
+Freq: 260.53867312934017 type: BPFO at rotor
+Freq: 393.70176548016764 type: BPFI at rotor
+Freq: 48.551115137599155 type: rotor+1
+Freq: 48.41782449892352 type: rotor-1
+Freq: 48.61776045693697 type: rotor+2
+Freq: 48.351179179585706 type: rotor-2
+Freq: 96.96893963652268 type: stator x2
+Freq: 145.453409454784 type: stator x3
+
+Closest freqinces
+Freq:131.47455244203627close to:131.40790840433922type:BPFI at motor
+Freq:48.551115137599155close to:48.48446981826134type:rotor+1
+Freq:48.41782449892352close to:48.48446981826134type:rotor-1
+Freq:96.96893963652268close to:96.96893963652268type:stator x2
+Freq:145.453409454784close to:145.453409454784type:stator x3

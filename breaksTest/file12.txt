@@ -22,6 +22,7 @@ Freq: 97.0689076155294 type: stator x2
 Freq: 145.6033614232941 type: stator x3
 
 Closest freqinces
+Freq:9.680544072521641close to:9.746877953155629type:FTF at motor
 Freq:57.241796129506284close to:57.24832931118418type:BSF at motor
 Freq:48.61776045693698close to:48.5344538077647type:rotor+1
 Freq:48.45114715859243close to:48.5344538077647type:rotor-1
